@@ -2665,10 +2665,12 @@ input, select, textarea {
 		}
 
 			#bio-pic {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 			width: 50%;
-			height: 50%;
+		
 			border: solid 2px black;
-			border-radius: 15px;
 		}
 
 			.image.main:first-child {

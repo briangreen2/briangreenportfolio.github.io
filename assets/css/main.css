@@ -2664,14 +2664,7 @@ input, select, textarea {
 			
 		}
 
-			#bio-pic {
-			display: block;
-			margin-left: auto;
-			margin-right: auto;
-			width: 50%;
-		
-			border: solid 2px black;
-		}
+			
 
 			.image.main:first-child {
 				margin-top: 0;
@@ -2690,6 +2683,14 @@ input, select, textarea {
 			.image.main {
 				margin: 2rem 0;
 			}
+			
+			#bio-pic {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
+			border: solid 2px black;
+		}
 
 		}
 

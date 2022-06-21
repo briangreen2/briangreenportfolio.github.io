@@ -2664,7 +2664,11 @@ input, select, textarea {
 			
 		}
 
-		
+			#bio-pic {
+			width: 50%;
+			border: solid 2px black;
+			border-radius: 15px;
+		}
 
 			.image.main:first-child {
 				margin-top: 0;

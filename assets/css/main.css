@@ -2666,6 +2666,7 @@ input, select, textarea {
 
 			#bio-pic {
 			width: 50%;
+			height: 50%;
 			border: solid 2px black;
 			border-radius: 15px;
 		}
